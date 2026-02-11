@@ -1,0 +1,7 @@
+*.asv
+*.autosave
+*.slxc
+*.slprj
+*.mex*
+*.mat
+results/*
